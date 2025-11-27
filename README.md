@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center"> 
   <a href="https://github.com/predibase/lorax">
     <img src="docs/LoRAX_Main_Logo-Orange.png" alt="LoRAX Logo" style="width:200px;" />
   </a>
